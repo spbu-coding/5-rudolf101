@@ -11,8 +11,6 @@ void input() {
     printf("Enter text:\n");
 
     scanf("%s", buf);
-    // Check the adress
-    printf("%p\n", &other);
 
     printf("Your text: %s\n", buf);
     fflush(stdout);
