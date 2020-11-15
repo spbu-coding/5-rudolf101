@@ -18,5 +18,6 @@ void input() {
 
 int main() {
     input();
+    printf("You couldn't find the secret :(\n");
     return 0;
 }
